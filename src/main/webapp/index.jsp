@@ -16,7 +16,7 @@
       font-family: "Poppins", sans-serif;
       font-size: 1rem;
       color: white;
-      background-color: 490776;
+      background-color: #000000;
     }
 
     main {
